@@ -20,7 +20,7 @@ A web-based chatbot that answers questions **only** from documents you provide, 
 
 ## Requirements
 
-- Python 3.9 or higher
+- Python 3.9 or but less than 13.12
 - An API key from [DeepSeek](https://platform.deepseek.com) or [OpenAI](https://platform.openai.com) with credit on the account
 
 ---
