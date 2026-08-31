@@ -1,6 +1,6 @@
-# Source-Grounded RAG Chatbot
+# Source-Grounded RAG Chatai
 
-A web-based chatbot that answers questions **only** from documents you provide, in plain language, with citations back to the source page.
+A web-based chatai that answers questions **only** from documents you provide, in plain language, with citations back to the source page.
 
 **Current status: Phase 0 complete** — plain chat with a live LLM. Document retrieval is not yet wired in.
 
@@ -31,7 +31,7 @@ A web-based chatbot that answers questions **only** from documents you provide, 
 
 ```bash
 git clone <your-repo-url>
-cd rag-chatbot
+cd rag-chatai
 ```
 
 ### 2. Create and activate a virtual environment
@@ -139,7 +139,7 @@ Run all five. Test 4 is the one that matters — it proves you are hitting a rea
 ## Project structure
 
 ```
-rag-chatbot/
+rag-chatai/
 ├── venv/               # Installed packages — never committed
 ├── data/               # Your source documents (empty until Phase 1)
 ├── .env                # Secrets — never committed
